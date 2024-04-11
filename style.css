@@ -23,13 +23,13 @@ nav {
 }
 
 .logo-name {
-  color: crimson;
+  color: rgb(84, 99, 1);
   font-size: 30px;
-  background-color: rgba(0, 0, 0, 0.37);
+  background-color: #43A047;
   border-radius: 5px;
   padding: 20px;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  text-shadow: 2px 2px 3px yellow;
+  text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.521);
 }
 
 .nav-menu-book {
@@ -154,7 +154,7 @@ img{
   width: 1325px;
   height: 472px;
   margin-left: 0px;
-  background-color: rgba(156, 28, 50, 0.295);
+  background-color: rgba(8, 146, 123, 0.295);
   z-index: 200px;
 
 }
@@ -172,7 +172,7 @@ img{
   width: 1325px;
   height: 423px;
   margin-left: 0px;
-  background-color: rgba(156, 28, 50, 0.295);
+  background-color: rgba(8, 146, 123, 0.295);
   z-index: 200px;
 }
 /* end of places */
